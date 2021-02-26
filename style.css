@@ -3,8 +3,8 @@ body{
     padding: 10px;
     background-color: #d9dbde;
 }
-.column{
-    border: 2px solid red;
+.h-color{
+    background-color: #d9dbde;
     
 }
 .details{
@@ -22,4 +22,14 @@ body{
 
 .add-shadow{
     box-shadow: 2px 2px 5px #888888;
+}
+.badge-secondary{
+    color: #fff;
+    background-color: #6c757d;
+}
+
+.badge-pill {
+    padding-right: .6em;
+    padding-left: .6em;
+    border-radius: 10rem;
 }
